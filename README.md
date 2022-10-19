@@ -16,7 +16,7 @@ you are challenged to predict which passengers were transported by the anomaly u
 
 ## Problem Type: This is a classification problem. 
 
-## Data Source: This is a Kaggle dataset.
+## Data Source: The dataset was gotten from Kaggle.
 
 ## A brief description of the data.
 
