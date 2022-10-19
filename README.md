@@ -16,9 +16,9 @@ you are challenged to predict which passengers were transported by the anomaly u
 
 ## Problem Type: This is a classification problem. 
 
-## Data Source: This is a Kaggle dataset
+## Data Source: This is a Kaggle dataset.
 
-### A brief description of the data.
+## A brief description of the data.
 
 PassengerId - A unique Id for each passenger.
               Each Id takes the form gggg_pp where gggg indicates a group the passenger is travelling with and pp is their number within the group.
