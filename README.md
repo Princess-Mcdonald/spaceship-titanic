@@ -1,7 +1,9 @@
+<h1> Overview Of Spaceship Titanic </h1>
+
 ![spaceship_titanic](https://user-images.githubusercontent.com/83272065/196774164-5d42b715-9b4c-4e5f-b090-fda93d612bcc.png)
 
 
-## Overview
+##Introduction
 
 Welcome to the year 2912, where your data science skills are needed to solve a cosmic mystery. We've received a transmission from four lightyears away and things aren't looking good.
 
