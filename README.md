@@ -1,6 +1,6 @@
 <h1> Overview Of Spaceship Titanic </h1>
 
-![spaceship_titanic](https://user-images.githubusercontent.com/83272065/196774164-5d42b715-9b4c-4e5f-b090-fda93d612bcc.png)
+![image](https://user-images.githubusercontent.com/83272065/196786254-3092cd2a-cdff-4b3d-811a-627d4989e1ea.png)
 
 
 ## Introduction
